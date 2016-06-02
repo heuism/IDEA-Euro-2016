@@ -9,19 +9,39 @@
 /* Begin PBXBuildFile section */
 		FFD576801CFFD46F009CD8BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD5767F1CFFD46F009CD8BF /* AppDelegate.swift */; };
 		FFD576821CFFD46F009CD8BF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD576811CFFD46F009CD8BF /* ViewController.swift */; };
-		FFD576851CFFD46F009CD8BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFD576831CFFD46F009CD8BF /* Main.storyboard */; };
-		FFD576871CFFD46F009CD8BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFD576861CFFD46F009CD8BF /* Assets.xcassets */; };
-		FFD5768A1CFFD46F009CD8BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFD576881CFFD46F009CD8BF /* LaunchScreen.storyboard */; };
+		FFD576951CFFD4B3009CD8BF /* LoadingState.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD576931CFFD4B3009CD8BF /* LoadingState.swift */; };
+		FFD576961CFFD4B3009CD8BF /* StringHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD576941CFFD4B3009CD8BF /* StringHelper.swift */; };
+		FFD576991CFFD4CA009CD8BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFD576971CFFD4CA009CD8BF /* LaunchScreen.storyboard */; };
+		FFD5769A1CFFD4CA009CD8BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFD576981CFFD4CA009CD8BF /* Main.storyboard */; };
+		FFD5769C1CFFD4F3009CD8BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFD5769B1CFFD4F3009CD8BF /* Assets.xcassets */; };
+		FFD576A21CFFD52A009CD8BF /* ScheduleViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD5769E1CFFD52A009CD8BF /* ScheduleViewController.swift */; };
+		FFD576A31CFFD52A009CD8BF /* SplashViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD5769F1CFFD52A009CD8BF /* SplashViewController.swift */; };
+		FFD576A41CFFD52A009CD8BF /* TeamDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD576A01CFFD52A009CD8BF /* TeamDetailsViewController.swift */; };
+		FFD576A51CFFD52A009CD8BF /* TeamsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD576A11CFFD52A009CD8BF /* TeamsViewController.swift */; };
+		FFD576A91CFFD60B009CD8BF /* Match.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD576A71CFFD60B009CD8BF /* Match.swift */; };
+		FFD576AA1CFFD60B009CD8BF /* Team.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD576A81CFFD60B009CD8BF /* Team.swift */; };
+		FFD576B21CFFD659009CD8BF /* ScheduleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD576AE1CFFD659009CD8BF /* ScheduleTableViewCell.swift */; };
+		FFD576B31CFFD659009CD8BF /* TeamsTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD576AF1CFFD659009CD8BF /* TeamsTableViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		FFD5767C1CFFD46F009CD8BF /* IDEA Euro 2016.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IDEA Euro 2016.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FFD5767F1CFFD46F009CD8BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		FFD576811CFFD46F009CD8BF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		FFD576841CFFD46F009CD8BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		FFD576861CFFD46F009CD8BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		FFD576891CFFD46F009CD8BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		FFD5768B1CFFD46F009CD8BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		FFD576931CFFD4B3009CD8BF /* LoadingState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LoadingState.swift; sourceTree = "<group>"; };
+		FFD576941CFFD4B3009CD8BF /* StringHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StringHelper.swift; sourceTree = "<group>"; };
+		FFD576971CFFD4CA009CD8BF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FFD576981CFFD4CA009CD8BF /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		FFD5769B1CFFD4F3009CD8BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FFD5769E1CFFD52A009CD8BF /* ScheduleViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScheduleViewController.swift; sourceTree = "<group>"; };
+		FFD5769F1CFFD52A009CD8BF /* SplashViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SplashViewController.swift; sourceTree = "<group>"; };
+		FFD576A01CFFD52A009CD8BF /* TeamDetailsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TeamDetailsViewController.swift; sourceTree = "<group>"; };
+		FFD576A11CFFD52A009CD8BF /* TeamsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TeamsViewController.swift; sourceTree = "<group>"; };
+		FFD576A71CFFD60B009CD8BF /* Match.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Match.swift; sourceTree = "<group>"; };
+		FFD576A81CFFD60B009CD8BF /* Team.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Team.swift; sourceTree = "<group>"; };
+		FFD576AE1CFFD659009CD8BF /* ScheduleTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ScheduleTableViewCell.swift; sourceTree = "<group>"; };
+		FFD576AF1CFFD659009CD8BF /* TeamsTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = TeamsTableViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,14 +74,64 @@
 		FFD5767E1CFFD46F009CD8BF /* IDEA Euro 2016 */ = {
 			isa = PBXGroup;
 			children = (
+				FFD576AB1CFFD659009CD8BF /* Cells */,
+				FFD576A61CFFD60B009CD8BF /* Models */,
+				FFD5769D1CFFD52A009CD8BF /* Controllers */,
+				FFD576921CFFD4B3009CD8BF /* Helpers */,
+				FFD576911CFFD49F009CD8BF /* StoryBoard */,
 				FFD5767F1CFFD46F009CD8BF /* AppDelegate.swift */,
 				FFD576811CFFD46F009CD8BF /* ViewController.swift */,
-				FFD576831CFFD46F009CD8BF /* Main.storyboard */,
-				FFD576861CFFD46F009CD8BF /* Assets.xcassets */,
-				FFD576881CFFD46F009CD8BF /* LaunchScreen.storyboard */,
 				FFD5768B1CFFD46F009CD8BF /* Info.plist */,
+				FFD5769B1CFFD4F3009CD8BF /* Assets.xcassets */,
 			);
 			path = "IDEA Euro 2016";
+			sourceTree = "<group>";
+		};
+		FFD576911CFFD49F009CD8BF /* StoryBoard */ = {
+			isa = PBXGroup;
+			children = (
+				FFD576971CFFD4CA009CD8BF /* LaunchScreen.storyboard */,
+				FFD576981CFFD4CA009CD8BF /* Main.storyboard */,
+			);
+			path = StoryBoard;
+			sourceTree = "<group>";
+		};
+		FFD576921CFFD4B3009CD8BF /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				FFD576931CFFD4B3009CD8BF /* LoadingState.swift */,
+				FFD576941CFFD4B3009CD8BF /* StringHelper.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		FFD5769D1CFFD52A009CD8BF /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				FFD5769E1CFFD52A009CD8BF /* ScheduleViewController.swift */,
+				FFD5769F1CFFD52A009CD8BF /* SplashViewController.swift */,
+				FFD576A01CFFD52A009CD8BF /* TeamDetailsViewController.swift */,
+				FFD576A11CFFD52A009CD8BF /* TeamsViewController.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		FFD576A61CFFD60B009CD8BF /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				FFD576A71CFFD60B009CD8BF /* Match.swift */,
+				FFD576A81CFFD60B009CD8BF /* Team.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		FFD576AB1CFFD659009CD8BF /* Cells */ = {
+			isa = PBXGroup;
+			children = (
+				FFD576AE1CFFD659009CD8BF /* ScheduleTableViewCell.swift */,
+				FFD576AF1CFFD659009CD8BF /* TeamsTableViewCell.swift */,
+			);
+			path = Cells;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -122,9 +192,9 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FFD5768A1CFFD46F009CD8BF /* LaunchScreen.storyboard in Resources */,
-				FFD576871CFFD46F009CD8BF /* Assets.xcassets in Resources */,
-				FFD576851CFFD46F009CD8BF /* Main.storyboard in Resources */,
+				FFD5769A1CFFD4CA009CD8BF /* Main.storyboard in Resources */,
+				FFD5769C1CFFD4F3009CD8BF /* Assets.xcassets in Resources */,
+				FFD576991CFFD4CA009CD8BF /* LaunchScreen.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -135,31 +205,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				FFD576A21CFFD52A009CD8BF /* ScheduleViewController.swift in Sources */,
+				FFD576B21CFFD659009CD8BF /* ScheduleTableViewCell.swift in Sources */,
+				FFD576961CFFD4B3009CD8BF /* StringHelper.swift in Sources */,
+				FFD576A91CFFD60B009CD8BF /* Match.swift in Sources */,
+				FFD576951CFFD4B3009CD8BF /* LoadingState.swift in Sources */,
+				FFD576B31CFFD659009CD8BF /* TeamsTableViewCell.swift in Sources */,
+				FFD576A31CFFD52A009CD8BF /* SplashViewController.swift in Sources */,
 				FFD576821CFFD46F009CD8BF /* ViewController.swift in Sources */,
+				FFD576A51CFFD52A009CD8BF /* TeamsViewController.swift in Sources */,
+				FFD576A41CFFD52A009CD8BF /* TeamDetailsViewController.swift in Sources */,
+				FFD576AA1CFFD60B009CD8BF /* Team.swift in Sources */,
 				FFD576801CFFD46F009CD8BF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		FFD576831CFFD46F009CD8BF /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				FFD576841CFFD46F009CD8BF /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		FFD576881CFFD46F009CD8BF /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				FFD576891CFFD46F009CD8BF /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		FFD5768C1CFFD46F009CD8BF /* Debug */ = {
@@ -248,10 +309,11 @@
 		FFD5768F1CFFD46F009CD8BF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = Euro;
 				INFOPLIST_FILE = "IDEA Euro 2016/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hoangcuulong.IDEA-Euro-2016";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hoangcuulong.IDEAEuro2016;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Debug;
@@ -259,10 +321,11 @@
 		FFD576901CFFD46F009CD8BF /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_APPICON_NAME = Euro;
 				INFOPLIST_FILE = "IDEA Euro 2016/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = "com.hoangcuulong.IDEA-Euro-2016";
+				PRODUCT_BUNDLE_IDENTIFIER = com.hoangcuulong.IDEAEuro2016;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
 			name = Release;

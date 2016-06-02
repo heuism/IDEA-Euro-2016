@@ -1,0 +1,521 @@
+{
+  "Groups" : {
+    "A" : {
+      "Albania" : {
+        "Point" : 0,
+        "Rank" : 1
+      },
+      "France" : {
+        "Point" : 0,
+        "Rank" : 2
+      },
+      "Romania" : {
+        "Point" : 0,
+        "Rank" : 3
+      },
+      "Switzerland" : {
+        "Point" : 0,
+        "Rank" : 4
+      }
+    },
+    "B" : {
+      "England" : {
+        "Point" : 0,
+        "Rank" : 1
+      },
+      "Russia" : {
+        "Point" : 0,
+        "Rank" : 2
+      },
+      "Slovakia" : {
+        "Point" : 0,
+        "Rank" : 3
+      },
+      "Wales" : {
+        "Point" : 0,
+        "Rank" : 4
+      }
+    },
+    "C" : {
+      "Germany" : {
+        "Point" : 0,
+        "Rank" : 1
+      },
+      "Northern Ireland" : {
+        "Point" : 0,
+        "Rank" : 2
+      },
+      "Poland" : {
+        "Point" : 0,
+        "Rank" : 3
+      },
+      "Ukraine" : {
+        "Point" : 0,
+        "Rank" : 4
+      }
+    },
+    "D" : {
+      "Croatia" : {
+        "Point" : 0,
+        "Rank" : 1
+      },
+      "Czech Republic" : {
+        "Point" : 0,
+        "Rank" : 2
+      },
+      "Spain" : {
+        "Point" : 0,
+        "Rank" : 3
+      },
+      "Turkey" : {
+        "Point" : 0,
+        "Rank" : 4
+      }
+    },
+    "E" : {
+      "Belgium" : {
+        "Point" : 0,
+        "Rank" : 1
+      },
+      "Italy" : {
+        "Point" : 0,
+        "Rank" : 2
+      },
+      "Rep of Ireland" : {
+        "Point" : 0,
+        "Rank" : 3
+      },
+      "Sweden" : {
+        "Point" : 0,
+        "Rank" : 4
+      }
+    },
+    "F" : {
+      "Austria" : {
+        "Point" : 0,
+        "Rank" : 1
+      },
+      "Hungary" : {
+        "Point" : 0,
+        "Rank" : 2
+      },
+      "Iceland" : {
+        "Point" : 0,
+        "Rank" : 3
+      },
+      "Portugal" : {
+        "Point" : 0,
+        "Rank" : 4
+      }
+    }
+  },
+  "Matches" : [ null, {
+    "Date" : "2016-06-11 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "A",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "France",
+    "Team 2" : "Romania"
+  }, {
+    "Date" : "2016-06-11 20:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "A",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Albania",
+    "Team 2" : "Switzerland"
+  }, {
+    "Date" : "2016-06-11 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "B",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Wales",
+    "Team 2" : "Slovakia"
+  }, {
+    "Date" : "2016-06-12 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "B",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "England",
+    "Team 2" : "Russia"
+  }, {
+    "Date" : "2016-06-12 20:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "D",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Turkey",
+    "Team 2" : "Croatia"
+  }, {
+    "Date" : "2016-06-12 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "C",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Poland",
+    "Team 2" : "Northern Ireland"
+  }, {
+    "Date" : "2016-06-13 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "C",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Germany",
+    "Team 2" : "Ukraine"
+  }, {
+    "Date" : "2016-06-13 20:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "D",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Spain",
+    "Team 2" : "Czech Republic"
+  }, {
+    "Date" : "2016-06-13 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "E",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Rep of Ireland",
+    "Team 2" : "Sweden"
+  }, {
+    "Date" : "2016-06-14 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "E",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Belgium",
+    "Team 2" : "Italy"
+  }, {
+    "Date" : "2016-06-14 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "F",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Austria",
+    "Team 2" : "Hungary"
+  }, {
+    "Date" : "2016-06-15 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "F",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Portugal",
+    "Team 2" : "Iceland"
+  }, {
+    "Date" : "2016-06-15 20:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "B",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Russia",
+    "Team 2" : "Slovakia"
+  }, {
+    "Date" : "2016-06-15 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "A",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Romania",
+    "Team 2" : "Switzerland"
+  }, {
+    "Date" : "2016-06-16 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "A",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "France",
+    "Team 2" : "Albania"
+  }, {
+    "Date" : "2016-06-16 20:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "B",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "England",
+    "Team 2" : "Wales"
+  }, {
+    "Date" : "2016-06-16 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "C",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Ukraine",
+    "Team 2" : "Northern Ireland"
+  }, {
+    "Date" : "2016-06-17 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "C",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Germany",
+    "Team 2" : "Poland"
+  }, {
+    "Date" : "2016-06-17 20:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "E",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Italy",
+    "Team 2" : "Sweden"
+  }, {
+    "Date" : "2016-06-17 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "D",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Czech Republic",
+    "Team 2" : "Croatia"
+  }, {
+    "Date" : "2016-06-18 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "D",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Spain",
+    "Team 2" : "Turkey"
+  }, {
+    "Date" : "2016-06-18 20:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "E",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Belgium",
+    "Team 2" : "Rep of Ireland"
+  }, {
+    "Date" : "2016-06-18 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "F",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Iceland",
+    "Team 2" : "Hungary"
+  }, {
+    "Date" : "2016-06-19 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "F",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Portugal",
+    "Team 2" : "Austria"
+  }, {
+    "Date" : "2016-06-20 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "A",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Switzerland",
+    "Team 2" : "France"
+  }, {
+    "Date" : "2016-06-20 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "A",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Romania",
+    "Team 2" : "Albania"
+  }, {
+    "Date" : "2016-06-21 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "B",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Slovakia",
+    "Team 2" : "England"
+  }, {
+    "Date" : "2016-06-21 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "B",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Russia",
+    "Team 2" : "Wales"
+  }, {
+    "Date" : "2016-06-21 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "C",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Ukraine",
+    "Team 2" : "Poland"
+  }, {
+    "Date" : "2016-06-21 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "C",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Northern Ireland",
+    "Team 2" : "Germany"
+  }, {
+    "Date" : "2016-06-22 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "D",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Croatia",
+    "Team 2" : "Spain"
+  }, {
+    "Date" : "2016-06-22 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "D",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Czech Republic",
+    "Team 2" : "Turkey"
+  }, {
+    "Date" : "2016-06-22 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "F",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Hungary",
+    "Team 2" : "Portugal"
+  }, {
+    "Date" : "2016-06-22 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "F",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Iceland",
+    "Team 2" : "Austria"
+  }, {
+    "Date" : "2016-06-23 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "E",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Italy",
+    "Team 2" : "Rep of Ireland"
+  }, {
+    "Date" : "2016-06-23 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "E",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Sweden",
+    "Team 2" : "Belgium"
+  }, {
+    "Date" : "2016-06-25 20:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "KN1",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Nhì A",
+    "Team 2" : "Nhì C"
+  }, {
+    "Date" : "2016-06-25 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "KN2",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Nhất B",
+    "Team 2" : "Hạng 3 (A/C/D)"
+  }, {
+    "Date" : "2016-06-26 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "KN3",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Nhất D",
+    "Team 2" : "Hạng 3 (B/E/F)"
+  }, {
+    "Date" : "2016-06-26 20:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "KN4",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Nhất A",
+    "Team 2" : "Hạng 3 (C/D/E)"
+  }, {
+    "Date" : "2016-06-26 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "KN5",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Nhất C",
+    "Team 2" : "Hạng 3 (A/B/F)"
+  }, {
+    "Date" : "2016-06-27 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "KN6",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Nhất F",
+    "Team 2" : "Nhì E"
+  }, {
+    "Date" : "2016-06-27 23:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "KN7",
+    "TVs" : "VTV6 & VTV6HD",
+    "Team 1" : "Nhất E",
+    "Team 2" : "Nhì D"
+  }, {
+    "Date" : "2016-06-28 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "KN8",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Nhì B",
+    "Team 2" : "Nhì F"
+  }, {
+    "Date" : "2016-07-01 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "TK1",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Thắng KN1",
+    "Team 2" : "Thắng KN3"
+  }, {
+    "Date" : "2016-07-02 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "TK2",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Thắng KN2",
+    "Team 2" : "Thắng KN6"
+  }, {
+    "Date" : "2016-07-03 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "TK3",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Thắng KN5",
+    "Team 2" : "Thắng KN7"
+  }, {
+    "Date" : "2016-07-04 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "TK4",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Thắng KN4",
+    "Team 2" : "Thắng KN8"
+  }, {
+    "Date" : "2016-07-07 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "BK1",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Thắng TK1",
+    "Team 2" : "Thắng TK2"
+  }, {
+    "Date" : "2016-07-08 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "BK2",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Thắng TK3",
+    "Team 2" : "Thắng TK4"
+  }, {
+    "Date" : "2016-07-11 02:00:00 +0700",
+    "Goals Team 1" : 0,
+    "Goals Team 2" : 0,
+    "Groups" : "CK",
+    "TVs" : "VTV3 & VTV3HD",
+    "Team 1" : "Thắng BK1",
+    "Team 2" : "Thắng BK2"
+  } ]
+}
