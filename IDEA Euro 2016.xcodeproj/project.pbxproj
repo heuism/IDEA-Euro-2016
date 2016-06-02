@@ -1,0 +1,293 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		FFD576801CFFD46F009CD8BF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD5767F1CFFD46F009CD8BF /* AppDelegate.swift */; };
+		FFD576821CFFD46F009CD8BF /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FFD576811CFFD46F009CD8BF /* ViewController.swift */; };
+		FFD576851CFFD46F009CD8BF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFD576831CFFD46F009CD8BF /* Main.storyboard */; };
+		FFD576871CFFD46F009CD8BF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = FFD576861CFFD46F009CD8BF /* Assets.xcassets */; };
+		FFD5768A1CFFD46F009CD8BF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FFD576881CFFD46F009CD8BF /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		FFD5767C1CFFD46F009CD8BF /* IDEA Euro 2016.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IDEA Euro 2016.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FFD5767F1CFFD46F009CD8BF /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		FFD576811CFFD46F009CD8BF /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		FFD576841CFFD46F009CD8BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		FFD576861CFFD46F009CD8BF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		FFD576891CFFD46F009CD8BF /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		FFD5768B1CFFD46F009CD8BF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		FFD576791CFFD46F009CD8BF /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		FFD576731CFFD46F009CD8BF = {
+			isa = PBXGroup;
+			children = (
+				FFD5767E1CFFD46F009CD8BF /* IDEA Euro 2016 */,
+				FFD5767D1CFFD46F009CD8BF /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		FFD5767D1CFFD46F009CD8BF /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				FFD5767C1CFFD46F009CD8BF /* IDEA Euro 2016.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		FFD5767E1CFFD46F009CD8BF /* IDEA Euro 2016 */ = {
+			isa = PBXGroup;
+			children = (
+				FFD5767F1CFFD46F009CD8BF /* AppDelegate.swift */,
+				FFD576811CFFD46F009CD8BF /* ViewController.swift */,
+				FFD576831CFFD46F009CD8BF /* Main.storyboard */,
+				FFD576861CFFD46F009CD8BF /* Assets.xcassets */,
+				FFD576881CFFD46F009CD8BF /* LaunchScreen.storyboard */,
+				FFD5768B1CFFD46F009CD8BF /* Info.plist */,
+			);
+			path = "IDEA Euro 2016";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		FFD5767B1CFFD46F009CD8BF /* IDEA Euro 2016 */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = FFD5768E1CFFD46F009CD8BF /* Build configuration list for PBXNativeTarget "IDEA Euro 2016" */;
+			buildPhases = (
+				FFD576781CFFD46F009CD8BF /* Sources */,
+				FFD576791CFFD46F009CD8BF /* Frameworks */,
+				FFD5767A1CFFD46F009CD8BF /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "IDEA Euro 2016";
+			productName = "IDEA Euro 2016";
+			productReference = FFD5767C1CFFD46F009CD8BF /* IDEA Euro 2016.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		FFD576741CFFD46F009CD8BF /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0730;
+				LastUpgradeCheck = 0730;
+				ORGANIZATIONNAME = "Long Hoang";
+				TargetAttributes = {
+					FFD5767B1CFFD46F009CD8BF = {
+						CreatedOnToolsVersion = 7.3.1;
+					};
+				};
+			};
+			buildConfigurationList = FFD576771CFFD46F009CD8BF /* Build configuration list for PBXProject "IDEA Euro 2016" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = FFD576731CFFD46F009CD8BF;
+			productRefGroup = FFD5767D1CFFD46F009CD8BF /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				FFD5767B1CFFD46F009CD8BF /* IDEA Euro 2016 */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		FFD5767A1CFFD46F009CD8BF /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FFD5768A1CFFD46F009CD8BF /* LaunchScreen.storyboard in Resources */,
+				FFD576871CFFD46F009CD8BF /* Assets.xcassets in Resources */,
+				FFD576851CFFD46F009CD8BF /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		FFD576781CFFD46F009CD8BF /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FFD576821CFFD46F009CD8BF /* ViewController.swift in Sources */,
+				FFD576801CFFD46F009CD8BF /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		FFD576831CFFD46F009CD8BF /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FFD576841CFFD46F009CD8BF /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		FFD576881CFFD46F009CD8BF /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				FFD576891CFFD46F009CD8BF /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		FFD5768C1CFFD46F009CD8BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		FFD5768D1CFFD46F009CD8BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.3;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		FFD5768F1CFFD46F009CD8BF /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "IDEA Euro 2016/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hoangcuulong.IDEA-Euro-2016";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		FFD576901CFFD46F009CD8BF /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = "IDEA Euro 2016/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.hoangcuulong.IDEA-Euro-2016";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		FFD576771CFFD46F009CD8BF /* Build configuration list for PBXProject "IDEA Euro 2016" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FFD5768C1CFFD46F009CD8BF /* Debug */,
+				FFD5768D1CFFD46F009CD8BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		FFD5768E1CFFD46F009CD8BF /* Build configuration list for PBXNativeTarget "IDEA Euro 2016" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				FFD5768F1CFFD46F009CD8BF /* Debug */,
+				FFD576901CFFD46F009CD8BF /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = FFD576741CFFD46F009CD8BF /* Project object */;
+}
