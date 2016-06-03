@@ -19,7 +19,6 @@ class LoadingState {
         let viewState = UIView(frame: CGRect(x: screenSize.width/2 - (width / 2) , y: screenSize.height/2 - (height / 2), width: width, height: height ))
         viewState.layer.zPosition = 1
         viewState.backgroundColor = UIColor(red: 0, green: 0, blue: 0, alpha: 0.7)
-        //        viewState.addSubview(bg)
         let imgView = UIImageView(frame: CGRect(x: -100, y: 10, width: 100, height: 120))
         let character = UIImage(named: "loading")
         imgView.image = character
